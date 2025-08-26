@@ -171,8 +171,9 @@
     new google.translate.TranslateElement(
       {
         pageLanguage: 'en', // 預設語言（繁體中文）
-        includedLanguages: 'en,zh-TW,ja', // 只顯示 繁中 / 英文 / 日文
-        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+        includedLanguages: 'en,zh-TW,ja,fr,de,ms,hi', // 只顯示 繁中 / 英文 / 日文
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+        autoDisplay: false
       },
       'google_translate_element'
     );
