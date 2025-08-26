@@ -5,8 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>World News AI Photo Gallery</title>
     <style>
+        /* 隱藏 Google 翻譯工具列 */
+        .goog-te-banner-frame.skiptranslate,
+        .goog-te-banner-frame {
+          display: none !important;
+          visibility: hidden !important;
+          height: 0 !important;
+        }
         /* CSS 樣式維持不變 */
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; background-color: #121212; color: #e0e0e0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; background-color: #121212; color: #e0e0e0;top: 0px !important;   /* 避免被 Google 翻譯工具列往下推 */ }
         .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
         header { text-align: center; padding-bottom: 20px; border-bottom: 1px solid #333; }
         h1 { color: #ffffff; }
