@@ -3,17 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>World News AI Photo Gallery</title>
+    <title>國際新聞AI攝影專欄</title>
     <style>
-        /* 隱藏 Google 翻譯工具列 */
-        .goog-te-banner-frame.skiptranslate,
-        .goog-te-banner-frame {
-          display: none !important;
-          visibility: hidden !important;
-          height: 0 !important;
-        }
         /* CSS 樣式維持不變 */
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; background-color: #121212; color: #e0e0e0;top: 0px !important;   /* 避免被 Google 翻譯工具列往下推 */ }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; background-color: #121212; color: #e0e0e0; }
         .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
         header { text-align: center; padding-bottom: 20px; border-bottom: 1px solid #333; }
         h1 { color: #ffffff; }
@@ -36,30 +29,12 @@
         .next { right: 15px; }
         .close:hover, .prev:hover, .next:hover { color: #bbb; }
     </style>
-    <!-- 這裡放 cookie 設定 -->
-  <script>
-  (function setDefaultTranslateCookie() {
-    var from = '/en';     // 來源語言
-    var to   = '/zh-TW';  // 預設翻譯
-    var value = from + to;
-
-    var expires = new Date();
-    expires.setFullYear(expires.getFullYear() + 1);
-    var exp = ';expires=' + expires.toUTCString();
-
-    document.cookie = 'googtrans=' + value + exp + ';path=/';
-    document.cookie = 'googtrans=' + value + exp + ';domain=' + location.hostname + ';path=/';
-  })();
-  </script>
-    
-
 </head>
 <body>
-    <div id="google_translate_element"></div>
     <div class="container">
-        <header><h1>World News AI Photo Gallery</h1></header>
+        <header><h1>國際新聞AI攝影專欄</h1></header>
         <div class="controls">
-            <label for="date-select">Select Date：</label>
+            <label for="date-select">選擇日期：</label>
             <select id="date-select"></select>
         </div>
         <main id="image-grid"></main>
@@ -85,7 +60,7 @@
             const lightboxCaption = document.getElementById('lightbox-caption');
             const lightboxLink = document.getElementById('lightbox-link');
             
-            
+            // <<< --- 核心修改點在這裡 --- >>>
             async function loadGalleryData() {
                 try {
                     const response = await fetch(`gallery_data.json?v=${new Date().getTime()}`);
@@ -189,19 +164,4 @@
         });
     </script>
 </body>
-<script>
-    function googleTranslateElementInit() {
-      new google.translate.TranslateElement(
-        {
-          pageLanguage: 'en',
-          includedLanguages: 'en,zh-TW,ja,fr,de,ms,hi',
-          layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-          autoDisplay: false
-        },
-        'google_translate_element'
-      );
-    }
-  </script>
-  <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
 </html>
