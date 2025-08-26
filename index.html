@@ -85,7 +85,7 @@
             const lightboxCaption = document.getElementById('lightbox-caption');
             const lightboxLink = document.getElementById('lightbox-link');
             
-            // <<< --- 核心修改點在這裡 --- >>>
+            
             async function loadGalleryData() {
                 try {
                     const response = await fetch(`gallery_data.json?v=${new Date().getTime()}`);
