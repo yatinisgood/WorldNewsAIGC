@@ -1,4 +1,368 @@
 {
+  "2025-09-13": [
+    {
+      "file": "newsimage/2025-09-13/$12bn_‘downpayment’_on_WA_shipyard_to_help_prepare_it_for_Aukus_submarine_era.png",
+      "title": "$12bn ‘downpayment’ on WA shipyard to help prepare it for Aukus submarine era",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/13/12bn-downpayment-on-wa-shipyard-to-help-prepare-it-for-aukus-submarine-era"
+    },
+    {
+      "file": "newsimage/2025-09-13/After_Poland_incursions,_Ukrainians_fear_Europe_will_hold_back_air_defenses.png",
+      "title": "After Poland incursions, Ukrainians fear Europe will hold back air defenses",
+      "link": "https://www.washingtonpost.com/world/2025/09/12/ukraine-air-defense-russia-poland-drones/"
+    },
+    {
+      "file": "newsimage/2025-09-13/After_years_living_quietly_in_Florida,_Shah_of_Iran’s_alleged_‘chief_torturer’_must_face_accusations_in_court.png",
+      "title": "After years living quietly in Florida, Shah of Iran’s alleged ‘chief torturer’ must face accusations in court",
+      "link": "https://www.theguardian.com/world/2025/sep/11/parviz-sabeti-shah-iran-lawsuit"
+    },
+    {
+      "file": "newsimage/2025-09-13/As_US_edges_closer_to_stagflation,_economists_blame_Trump_policies.png",
+      "title": "As US edges closer to stagflation, economists blame Trump policies",
+      "link": "https://www.theguardian.com/business/2025/sep/13/stagflation-economy-trump"
+    },
+    {
+      "file": "newsimage/2025-09-13/Brazilians_take_to_the_streets_to_celebrate_Bolsonaro_conviction.png",
+      "title": "Brazilians take to the streets to celebrate Bolsonaro conviction",
+      "link": "https://www.theguardian.com/world/2025/sep/12/brazilians-take-to-the-streets-to-celebrate-bolsonaro-conviction"
+    },
+    {
+      "file": "newsimage/2025-09-13/British_ice_dancer_and_same-sex_skating_partner_to_compete_in_Finland_after_rule_change.png",
+      "title": "British ice dancer and same sex skating partner to compete in Finland after rule change",
+      "link": "https://www.theguardian.com/uk-news/2025/sep/13/british-ice-dancer-same-sex-skating-partner-mille-colling-emma-aalto-compete-finland-rule-change"
+    },
+    {
+      "file": "newsimage/2025-09-13/British_woman_among_crew_training_for_Mars_simulation_mission.png",
+      "title": "British woman among crew training for Mars simulation mission",
+      "link": "https://www.theguardian.com/science/2025/sep/13/british-woman-laura-marie-training-nasa-mars-simulation-houston"
+    },
+    {
+      "file": "newsimage/2025-09-13/Charlie_Kirk_mourned_by_a_global_right_he_influenced.png",
+      "title": "Charlie Kirk mourned by a global right he influenced",
+      "link": "https://www.washingtonpost.com/world/2025/09/13/charlie-kirk-global-right-israel-netanyahu-hungary-orban-japan-south-korea-uk/"
+    },
+    {
+      "file": "newsimage/2025-09-13/Charlie_Kirk’s_US_campus_tour_will_continue_despite_his_death,_widow_says_–_US_politics_live.png",
+      "title": "Charlie Kirk’s US campus tour will continue despite his death, widow says – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2025/sep/13/charlie-kirk-suspect-tyler-robinson-erika-kirk-us-politics-latest-news-donald-trump"
+    },
+    {
+      "file": "newsimage/2025-09-13/China_set_to_open_world’s_tallest_bridge,_expanding_infrastructure_push.png",
+      "title": "China set to open world’s tallest bridge, expanding infrastructure push",
+      "link": "https://www.washingtonpost.com/world/2025/09/15/china-tallest-bridge-huajiang-grand-canyon/"
+    },
+    {
+      "file": "newsimage/2025-09-13/Fed_governor_Lisa_Cook_declared_key_property_as_‘vacation_home’,_files_show.png",
+      "title": "Fed governor Lisa Cook declared key property as ‘vacation home’, files show",
+      "link": "https://www.theguardian.com/us-news/2025/sep/13/fed-governor-lisa-cook-home"
+    },
+    {
+      "file": "newsimage/2025-09-13/Former_aide_to_de_facto_leader_of_Georgia_being_held_as_‘personal_prisoner’,_mother_claims.png",
+      "title": "Former aide to de facto leader of Georgia being held as ‘personal prisoner’, mother claims",
+      "link": "https://www.theguardian.com/world/2025/sep/13/former-aide-to-de-facto-leader-of-georgia-being-held-as-personal-prisoner-mother-claims"
+    },
+    {
+      "file": "newsimage/2025-09-13/France’s_credit_rating_downgraded,_with_debt_forecast_to_keep_rising_amid_political_turmoil.png",
+      "title": "France’s credit rating downgraded, with debt forecast to keep rising amid political turmoil",
+      "link": "https://www.theguardian.com/world/2025/sep/13/france-credit-rating-downgraded-fitch-debt-macron-lecornu-political-turmoil"
+    },
+    {
+      "file": "newsimage/2025-09-13/Israeli_intelligence_agency_balked_at_Netanyahu’s_strike_in_Qatar.png",
+      "title": "Israeli intelligence agency balked at Netanyahu’s strike in Qatar",
+      "link": "https://www.washingtonpost.com/world/2025/09/12/mossad-israel-qatar-strike-hamas/"
+    },
+    {
+      "file": "newsimage/2025-09-13/Israel’s_strike_on_Hamas_leaders_in_Qatar_shatters_Gulf’s_faith_in_US_protection.png",
+      "title": "Israel’s strike on Hamas leaders in Qatar shatters Gulf’s faith in US protection",
+      "link": "https://www.theguardian.com/world/2025/sep/12/israels-strike-on-hamas-leaders-in-qatar-shatters-gulfs-faith-in-us-protection"
+    },
+    {
+      "file": "newsimage/2025-09-13/Labor_claims_win_in_Kiama_byelection_with_Katelin_McInerney_to_replace_convicted_rapist_Gareth_Ward.png",
+      "title": "Labor claims win in Kiama byelection with Katelin McInerney to replace convicted rapist Gareth Ward",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/13/labor-claims-win-in-kiama-byelection-with-katelin-mcinerney-to-replace-convicted-rapist-gareth-ward"
+    },
+    {
+      "file": "newsimage/2025-09-13/Nepal_appoints_its_first_female_PM_after_historic_week_of_deadly_protests.png",
+      "title": "Nepal appoints its first female PM after historic week of deadly protests",
+      "link": "https://www.theguardian.com/world/2025/sep/12/nepal-appoints-its-first-female-pm-after-historic-week-of-deadly-protests"
+    },
+    {
+      "file": "newsimage/2025-09-13/North_Korea_executes_citizens_who_distribute_foreign_TV_shows,_UN_finds.png",
+      "title": "North Korea executes citizens who distribute foreign TV shows, UN finds",
+      "link": "https://www.theguardian.com/world/2025/sep/12/north-korea-executes-citizens-distribute-foreign-tv-shows-un-finds"
+    },
+    {
+      "file": "newsimage/2025-09-13/Poland_rebuffs_Trump,_saying_Russian_drone_incident_wasn’t_a_mistake.png",
+      "title": "Poland rebuffs Trump, saying Russian drone incident wasn’t a mistake",
+      "link": "https://www.washingtonpost.com/world/2025/09/12/trump-russia-poland-drones-nato/"
+    },
+    {
+      "file": "newsimage/2025-09-13/Police_deploy_pepper_spray_but_fears_of_brawls_between_activists_fail_to_materialise_on_Australia’s_day_of_protests.png",
+      "title": "Police deploy pepper spray but fears of brawls between activists fail to materialise on Australia’s day of protests",
+      "link": "https://www.theguardian.com/world/2025/sep/13/police-fear-brawls-between-activists-on-a-day-of-rallies-across-australia"
+    },
+    {
+      "file": "newsimage/2025-09-13/Prince_Harry_lays_wreath_to_Ukrainian_war_dead_on_surprise_visit_to_Kyiv.png",
+      "title": "Prince Harry lays wreath to Ukrainian war dead on surprise visit to Kyiv",
+      "link": "https://www.theguardian.com/world/2025/sep/12/prince-harry-lays-wreath-to-ukrainian-war-dead-on-surprise-visit-to-kyiv"
+    },
+    {
+      "file": "newsimage/2025-09-13/Rubio_quietly_signals_U.S._won’t_sink_submarine_deal_with_Australia.png",
+      "title": "Rubio quietly signals U.S. won’t sink submarine deal with Australia",
+      "link": "https://www.washingtonpost.com/national-security/2025/09/12/rubio-australia-aukus-submarine-review/"
+    },
+    {
+      "file": "newsimage/2025-09-13/Sainsbury’s_recalls_two_own-brand_hummus_varieties_over_E_coli_fears.png",
+      "title": "Sainsbury’s recalls two own brand hummus varieties over E coli fears",
+      "link": "https://www.theguardian.com/business/2025/sep/13/sainsburys-recalls-two-own-brand-hummus-varieties-over-e-coli-fears"
+    },
+    {
+      "file": "newsimage/2025-09-13/Several_people_fired_after_clampdown_on_speech_over_Charlie_Kirk_shooting.png",
+      "title": "Several people fired after clampdown on speech over Charlie Kirk shooting",
+      "link": "https://www.theguardian.com/us-news/2025/sep/13/charlie-kirk-shooting-people-fired-social-media"
+    },
+    {
+      "file": "newsimage/2025-09-13/South_Korea_is_going_wild_for_‘KPop_Demon_Hunters,’_made_in_the_U.S..png",
+      "title": "South Korea is going wild for ‘KPop Demon Hunters,’ made in the U.S.",
+      "link": "https://www.washingtonpost.com/world/2025/09/13/kpop-demon-hunters-south-korea/"
+    },
+    {
+      "file": "newsimage/2025-09-13/Starmer_‘defended_Mandelson_after_No_10_had_received_Epstein_emails’.png",
+      "title": "Starmer ‘defended Mandelson after No 10 had received Epstein emails’",
+      "link": "https://www.theguardian.com/politics/2025/sep/13/keir-starmer-peter-mandelson-jeffrey-epstein-emails"
+    },
+    {
+      "file": "newsimage/2025-09-13/The_Brits_who_beat_Brexit-_Gibraltar_celebrates_its_return_to_Europe.png",
+      "title": "The Brits who beat Brexit  Gibraltar celebrates its return to Europe",
+      "link": "https://www.washingtonpost.com/world/2025/09/13/gibraltar-brexit-treaty-spain-britain/"
+    },
+    {
+      "file": "newsimage/2025-09-13/Thousands_gather_in_London_for_far-right_‘unite_the_kingdom’_rally_and_counter-protest_–_UK_politics_live.png",
+      "title": "Thousands gather in London for far right ‘unite the kingdom’ rally and counter protest – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2025/sep/13/uk-politics-latest-news-unite-the-kingdom-march-far-right-rally-london-labour-keir-starmer"
+    },
+    {
+      "file": "newsimage/2025-09-13/Trump_attacks_on_judges_go_global,_reaching_foreign_court_systems.png",
+      "title": "Trump attacks on judges go global, reaching foreign court systems",
+      "link": "https://www.washingtonpost.com/national-security/2025/09/12/trump-foreign-courts-sanctions-bolsonaro/"
+    },
+    {
+      "file": "newsimage/2025-09-13/Universities_around_the_world_cut_ties_with_Israeli_academia_over_Gaza_war.png",
+      "title": "Universities around the world cut ties with Israeli academia over Gaza war",
+      "link": "https://www.theguardian.com/world/2025/sep/13/universities-around-the-world-cut-ties-with-israeli-academia-over-gaza-war"
+    },
+    {
+      "file": "newsimage/2025-09-13/Victorian_Liberals_must_unite_or_face_‘crisis’,_president_warns_as_moderates_swat_away_challenge_for_power.png",
+      "title": "Victorian Liberals must unite or face ‘crisis’, president warns as moderates swat away challenge for power",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/13/victorian-liberals-must-unite-or-face-crisis-president-warns-as-moderates-swat-away-challenge-for-power"
+    }
+  ],
+  "2025-09-12": [
+    {
+      "file": "newsimage/2025-09-12/Alleged_rape_of_Sikh_woman_in_West_Midlands_being_treated_as_hate_crime.png",
+      "title": "Alleged rape of Sikh woman in West Midlands being treated as hate crime",
+      "link": "https://www.theguardian.com/world/2025/sep/12/alleged-rape-sikh-woman-west-midlands-hate-crime"
+    },
+    {
+      "file": "newsimage/2025-09-12/Archaeologists_scramble_to_evacuate_Gaza_artefacts_threatened_by_Israeli_strike.png",
+      "title": "Archaeologists scramble to evacuate Gaza artefacts threatened by Israeli strike",
+      "link": "https://www.theguardian.com/world/2025/sep/11/antiquities-evacuated-from-gaza-city-storehouse-ahead-of-israeli-strike"
+    },
+    {
+      "file": "newsimage/2025-09-12/Australia’s_biggest_gas_project_greenlit_to_2070_with_‘partial’_protection_for_Indigenous_rock_art.png",
+      "title": "Australia’s biggest gas project greenlit to 2070 with ‘partial’ protection for Indigenous rock art",
+      "link": "https://www.theguardian.com/environment/2025/sep/12/north-west-shelf-gas-project-extended-to-2070-with-partial-protection-for-indigenous-rock-art"
+    },
+    {
+      "file": "newsimage/2025-09-12/Bolsonaro_sentenced_to_27_years_for_plotting_military_coup_in_Brazil.png",
+      "title": "Bolsonaro sentenced to 27 years for plotting military coup in Brazil",
+      "link": "https://www.theguardian.com/world/2025/sep/11/brazil-supreme-court-bolsonaro-guilty-coup"
+    },
+    {
+      "file": "newsimage/2025-09-12/Bolsonaro_sentenced_to_over_27_years_in_prison_for_coup_plot_in_Brazil.png",
+      "title": "Bolsonaro sentenced to over 27 years in prison for coup plot in Brazil",
+      "link": "https://www.washingtonpost.com/world/2025/09/11/bolsonaro-convicted-election-plot-assassinations/"
+    },
+    {
+      "file": "newsimage/2025-09-12/Canada-_Carney_unveils_array_of_national_projects_to_‘turbocharge’_economy.png",
+      "title": "Canada  Carney unveils array of national projects to ‘turbocharge’ economy",
+      "link": "https://www.theguardian.com/world/2025/sep/11/canada-mark-carney-national-projects-economy"
+    },
+    {
+      "file": "newsimage/2025-09-12/Charlie_Kirk_shooting_latest-_Trump_says_‘with_high_degree_of_certainty’_suspect_is_in_custody.png",
+      "title": "Charlie Kirk shooting latest  Trump says ‘with high degree of certainty’ suspect is in custody",
+      "link": "https://www.theguardian.com/us-news/live/2025/sep/12/charlie-kirk-shooter-suspect-latest-news-updates-donald-trump-utah"
+    },
+    {
+      "file": "newsimage/2025-09-12/Community_groups_warn_against_push_to_‘rip_up’_UK_nuclear_industry_rules.png",
+      "title": "Community groups warn against push to ‘rip up’ UK nuclear industry rules",
+      "link": "https://www.theguardian.com/environment/2025/sep/12/nuclear-regulatory-taskforce-consultation-new-power-stations-uk"
+    },
+    {
+      "file": "newsimage/2025-09-12/Festival_axes_German_orchestra_over_concerns_about_Israeli_conductor.png",
+      "title": "Festival axes German orchestra over concerns about Israeli conductor",
+      "link": "https://www.theguardian.com/world/2025/sep/11/festival-axes-german-orchestra-over-concerns-about-israeli-conductor"
+    },
+    {
+      "file": "newsimage/2025-09-12/Fiji_ant_study_provides_new_evidence_of_insects’_decline_on_remote_islands.png",
+      "title": "Fiji ant study provides new evidence of insects’ decline on remote islands",
+      "link": "https://www.theguardian.com/environment/2025/sep/11/fiji-ant-science-evidence-decline-insect-extinctions-remote-islands-aoe"
+    },
+    {
+      "file": "newsimage/2025-09-12/First_Thing-_New_video_of_suspect_released_by_FBI_amid_urgent_appeal_to_public_for_help.png",
+      "title": "First Thing  New video of suspect released by FBI amid urgent appeal to public for help",
+      "link": "https://www.theguardian.com/us-news/2025/sep/12/first-thing-new-video-of-suspect-released-by-fbi-amid-urgent-appeal-for-help-from-the-public"
+    },
+    {
+      "file": "newsimage/2025-09-12/Giorgio_Armani’s_will_says_his_brand_should_be_sold_or_seek_IPO.png",
+      "title": "Giorgio Armani’s will says his brand should be sold or seek IPO",
+      "link": "https://www.theguardian.com/fashion/2025/sep/12/giorgio-armani-will-says-brand-sold-ipo"
+    },
+    {
+      "file": "newsimage/2025-09-12/Gulf_countries_question_value_of_U.S._protection_after_Israeli_attack.png",
+      "title": "Gulf countries question value of U.S. protection after Israeli attack",
+      "link": "https://www.washingtonpost.com/world/2025/09/12/israel-qatar-attack-persian-gulf/"
+    },
+    {
+      "file": "newsimage/2025-09-12/Health_ministers_agree_to_new_fertility_sector_accreditation_regime_–_as_it_happened.png",
+      "title": "Health ministers agree to new fertility sector accreditation regime – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/sep/12/anthony-albanese-pacific-islands-forum-woodside-north-west-shelf-decision-sussan-ley-labor-coalition-ntwnfb"
+    },
+    {
+      "file": "newsimage/2025-09-12/Hopes_rise_of_pardon_for_Abd_el-Fattah_as_Starmer_speaks_with_Egypt_president.png",
+      "title": "Hopes rise of pardon for Abd el Fattah as Starmer speaks with Egypt president",
+      "link": "https://www.theguardian.com/world/2025/sep/12/hopes-rise-of-pardon-for-abd-el-fattah-as-starmer-speaks-with-egypt-president"
+    },
+    {
+      "file": "newsimage/2025-09-12/How_Cambodia,_a_staunch_ally_of_China,_became_infatuated_with_Trump.png",
+      "title": "How Cambodia, a staunch ally of China, became infatuated with Trump",
+      "link": "https://www.washingtonpost.com/world/2025/09/10/cambodia-trump-relationship/"
+    },
+    {
+      "file": "newsimage/2025-09-12/Hundreds_of_prison_officers_may_have_to_leave_UK_after_Labour’s_visa_rule_change.png",
+      "title": "Hundreds of prison officers may have to leave UK after Labour’s visa rule change",
+      "link": "https://www.theguardian.com/society/2025/sep/12/prison-officers-uk-skilled-work-visa-rule-change"
+    },
+    {
+      "file": "newsimage/2025-09-12/Israel’s_strike_in_Qatar_scrambles_Trump’s_ceasefire_plans.png",
+      "title": "Israel’s strike in Qatar scrambles Trump’s ceasefire plans",
+      "link": "https://www.washingtonpost.com/national-security/2025/09/11/israel-qatar-strike-hamas-trump-ceasefire/"
+    },
+    {
+      "file": "newsimage/2025-09-12/Jail_for_Bolsonaro_by_no_means_signals_the_end_of_his_political_movement.png",
+      "title": "Jail for Bolsonaro by no means signals the end of his political movement",
+      "link": "https://www.theguardian.com/world/2025/sep/12/jail-for-bolsonaro-by-no-means-signals-the-end-of-his-political-movement"
+    },
+    {
+      "file": "newsimage/2025-09-12/Labour_MPs_despondent_after_Rayner_and_Mandelson_departures,_says_cabinet_minister_–_UK_politics_live.png",
+      "title": "Labour MPs despondent after Rayner and Mandelson departures, says cabinet minister – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2025/sep/12/uk-politics-latest-news-peter-mandelson-labour-keir-starmer-angela-rayner"
+    },
+    {
+      "file": "newsimage/2025-09-12/NATO_allies_accuse_Russia_of_deliberate_drone_incursion_to_test_readiness.png",
+      "title": "NATO allies accuse Russia of deliberate drone incursion to test readiness",
+      "link": "https://www.washingtonpost.com/world/2025/09/11/nato-russia-drones-poland-test/"
+    },
+    {
+      "file": "newsimage/2025-09-12/Neo-Nazi_Thomas_Sewell_given_community_work_order_for_intimidating_police_officer_and_wife.png",
+      "title": "Neo Nazi Thomas Sewell given community work order for intimidating police officer and wife",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/12/neo-nazi-thomas-sewell-found-guilty-of-intimidating-police-officer-by-threatening-to-dox-them-ntwnfb"
+    },
+    {
+      "file": "newsimage/2025-09-12/Nepal’s_uprising_was_a_generation_in_the_making.png",
+      "title": "Nepal’s uprising was a generation in the making",
+      "link": "https://www.washingtonpost.com/world/2025/09/12/nepal-uprising-government/"
+    },
+    {
+      "file": "newsimage/2025-09-12/Peter_Mandelson’s_advisory_firm_cuts_ties_amid_Jeffrey_Epstein_revelations.png",
+      "title": "Peter Mandelson’s advisory firm cuts ties amid Jeffrey Epstein revelations",
+      "link": "https://www.theguardian.com/politics/2025/sep/12/peter-mandelson-advisory-firm-global-counsel-cuts-ties-amid-jeffrey-epstein-revelations"
+    },
+    {
+      "file": "newsimage/2025-09-12/Poland_says_Russia’s_drone_incursion_‘wasn’t_a_mistake’_after_Trump’s_speculation_–_Europe_live.png",
+      "title": "Poland says Russia’s drone incursion ‘wasn’t a mistake’ after Trump’s speculation – Europe live",
+      "link": "https://www.theguardian.com/world/live/2025/sep/12/poland-russia-drones-ukraine-war-latest-news-europe-live"
+    },
+    {
+      "file": "newsimage/2025-09-12/Poland_tells_Trump_Russian_drone_incident_wasn’t_a_mistake.png",
+      "title": "Poland tells Trump Russian drone incident wasn’t a mistake",
+      "link": "https://www.washingtonpost.com/world/2025/09/12/trump-russia-poland-drones-nato/"
+    },
+    {
+      "file": "newsimage/2025-09-12/Prince_Harry_makes_surprise_visit_to_Kyiv_to_see_wounded_veterans.png",
+      "title": "Prince Harry makes surprise visit to Kyiv to see wounded veterans",
+      "link": "https://www.washingtonpost.com/world/2025/09/12/prince-harry-ukraine-kyiv-visit/"
+    },
+    {
+      "file": "newsimage/2025-09-12/Russian_diva_condemns_Putin’s_war_on_Ukraine_in_first_interview_since_exile.png",
+      "title": "Russian diva condemns Putin’s war on Ukraine in first interview since exile",
+      "link": "https://www.washingtonpost.com/world/2025/09/11/alla-pugacheva-russia-ukraine-interview/"
+    },
+    {
+      "file": "newsimage/2025-09-12/South_Korea_outraged_at_300_workers_treated_as_‘prisoners_of_war’_in_US_raid.png",
+      "title": "South Korea outraged at 300 workers treated as ‘prisoners of war’ in US raid",
+      "link": "https://www.theguardian.com/global-development/2025/sep/12/south-korean-outrage-at-us-detention-ordeal-as-300-workers-return-home"
+    },
+    {
+      "file": "newsimage/2025-09-12/Strongest_tornado_ever_recorded_in_Japan_hits_Shizuoka_prefecture.png",
+      "title": "Strongest tornado ever recorded in Japan hits Shizuoka prefecture",
+      "link": "https://www.theguardian.com/environment/2025/sep/12/weather-tracker-strongest-tornado-ever-recorded-japan-hits-shizuoka-prefecture"
+    },
+    {
+      "file": "newsimage/2025-09-12/Threatened,_harassed_and_spat_on-_envoy_details_rise_in_attacks_and_recommends_Islamophobia_be_treated_with_urgency.png",
+      "title": "Threatened, harassed and spat on  envoy details rise in attacks and recommends Islamophobia be treated with urgency",
+      "link": "https://www.theguardian.com/news/2025/sep/12/islamophobia-report-envoy-aftab-malik-hands-down-recommendations-to-albanese-government"
+    },
+    {
+      "file": "newsimage/2025-09-12/Trump_expands_‘third_country’_deportation_policy_to_Ghana.png",
+      "title": "Trump expands ‘third country’ deportation policy to Ghana",
+      "link": "https://www.washingtonpost.com/world/2025/07/15/trump-third-countries-migrants-deportation/"
+    },
+    {
+      "file": "newsimage/2025-09-12/Trump’s_attacks_on_judges_have_gone_global,_reaching_foreign_court_systems.png",
+      "title": "Trump’s attacks on judges have gone global, reaching foreign court systems",
+      "link": "https://www.washingtonpost.com/national-security/2025/09/12/trump-foreign-courts-sanctions-bolsonaro/"
+    },
+    {
+      "file": "newsimage/2025-09-12/Ukraine_pleads_for_air_defense_as_Russia’s_strikes_grow_in_sophistication.png",
+      "title": "Ukraine pleads for air defense as Russia’s strikes grow in sophistication",
+      "link": "https://www.washingtonpost.com/world/2025/09/12/ukraine-air-defense-russia-poland-drones/"
+    },
+    {
+      "file": "newsimage/2025-09-12/UK_imposes_100_new_sanctions_targeting_Russia’s_revenues_and_military_supplies.png",
+      "title": "UK imposes 100 new sanctions targeting Russia’s revenues and military supplies",
+      "link": "https://www.theguardian.com/world/2025/sep/12/uk-imposes-sanctions-russia-revenues-military-supplies-yvette-cooper"
+    },
+    {
+      "file": "newsimage/2025-09-12/UK_needed_‘unconventional’_US_ambassador_when_picking_Mandelson,_minister_says.png",
+      "title": "UK needed ‘unconventional’ US ambassador when picking Mandelson, minister says",
+      "link": "https://www.theguardian.com/politics/2025/sep/12/uk-needed-unconventional-us-ambassador-when-picking-mandelson-minister-says"
+    },
+    {
+      "file": "newsimage/2025-09-12/Utah_officials_share_video_of_Charlie_Kirk_shooting_suspect_as_governor_pledges_death_penalty_-_as_it_happened.png",
+      "title": "Utah officials share video of Charlie Kirk shooting suspect as governor pledges death penalty   as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/sep/11/charlie-kirk-shot-latest-news-updates-utah-university-donald-trump"
+    },
+    {
+      "file": "newsimage/2025-09-12/Venezuela_says_11_killed_in_US_boat_strike_were_not_gang_members_amid_reports_vessel_was_returning_to_shore.png",
+      "title": "Venezuela says 11 killed in US boat strike were not gang members amid reports vessel was returning to shore",
+      "link": "https://www.theguardian.com/world/2025/sep/11/venezuela-boat-strike-tren-de-aragua-trump"
+    },
+    {
+      "file": "newsimage/2025-09-12/What_did_Jair_Bolsonaro’s_trial_reveal_about_an_attempted_coup_in_Brazil.png",
+      "title": "What did Jair Bolsonaro’s trial reveal about an attempted coup in Brazil",
+      "link": "https://www.theguardian.com/world/2025/sep/11/jair-bolsonaro-conviction-attempted-coup-what-happens-next-explainer"
+    },
+    {
+      "file": "newsimage/2025-09-12/Will_the_UK_ever_rejoin_the_EU_–_podcast.png",
+      "title": "Will the UK ever rejoin the EU – podcast",
+      "link": "https://www.theguardian.com/politics/audio/2025/sep/12/will-the-uk-ever-rejoin-the-eu-podcast"
+    },
+    {
+      "file": "newsimage/2025-09-12/‘I’m_here_to_help_people,_which_gives_me_a_superpower’-_one_man’s_challenge_to_swim_10_Swiss_lakes.png",
+      "title": "‘I’m here to help people, which gives me a superpower’  one man’s challenge to swim 10 Swiss lakes",
+      "link": "https://www.theguardian.com/lifeandstyle/2025/sep/12/devon-man-challenge-swim-10-swiss-lakes"
+    }
+  ],
   "2025-09-11": [
     {
       "file": "newsimage/2025-09-11/Actors_and_directors_pledge_not_to_work_with_Israeli_film_groups_‘implicated_in_genocide’.png",
