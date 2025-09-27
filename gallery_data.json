@@ -1,4 +1,373 @@
 {
+  "2025-09-27": [
+    {
+      "file": "newsimage/2025-09-27/Assata_Shakur,_an_icon_of_Black_liberation_who_was_exiled_to_Cuba,_dies_aged_78.png",
+      "title": "Assata Shakur, an icon of Black liberation who was exiled to Cuba, dies aged 78",
+      "link": "https://www.theguardian.com/us-news/2025/sep/26/assata-shakur-dies-aged-78"
+    },
+    {
+      "file": "newsimage/2025-09-27/Assata_Shakur,_Black_Power_militant_who_fled_to_Cuba,_dies_at_78.png",
+      "title": "Assata Shakur, Black Power militant who fled to Cuba, dies at 78",
+      "link": "https://www.washingtonpost.com/obituaries/2025/09/26/assata-shakur-dead/"
+    },
+    {
+      "file": "newsimage/2025-09-27/Canada_postal_workers_strike_after_government_orders_end_to_door-to-door_delivery.png",
+      "title": "Canada postal workers strike after government orders end to door to door delivery",
+      "link": "https://www.theguardian.com/world/2025/sep/26/canada-postal-workers-strike"
+    },
+    {
+      "file": "newsimage/2025-09-27/Canada_Post_to_end_home_delivery;_workers_strike_in_protest.png",
+      "title": "Canada Post to end home delivery; workers strike in protest",
+      "link": "https://www.washingtonpost.com/world/2025/09/26/canada-post-home-delivery-strike/"
+    },
+    {
+      "file": "newsimage/2025-09-27/Clive_Palmer_ordered_to_pay_$13m_after_claim_of_being_‘foreign_investor’_in_Australian_mining_project_thrown_out.png",
+      "title": "Clive Palmer ordered to pay $13m after claim of being ‘foreign investor’ in Australian mining project thrown out",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/27/clive-palmer-ordered-to-pay-13m-after-claim-of-being-foreign-investor-in-australian-mining-project-thrown-out"
+    },
+    {
+      "file": "newsimage/2025-09-27/Cradle_Mountain_tourist_dies_after_walking_group_overwhelmed_by_extreme_weather_at_national_park.png",
+      "title": "Cradle Mountain tourist dies after walking group overwhelmed by extreme weather at national park",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/27/cradle-mountain-tourist-dies-after-walking-group-overwhelmed-by-extreme-weather-at-national-park"
+    },
+    {
+      "file": "newsimage/2025-09-27/Denmark_reports_new_drone_sightings_over_its_biggest_military_base.png",
+      "title": "Denmark reports new drone sightings over its biggest military base",
+      "link": "https://www.theguardian.com/world/2025/sep/27/denmark-new-drone-sightings-biggest-military-base"
+    },
+    {
+      "file": "newsimage/2025-09-27/Dezi_Freeman_search_has_hit_the_one-month_mark._How_long_might_police_continue_the_manhunt.png",
+      "title": "Dezi Freeman search has hit the one month mark. How long might police continue the manhunt",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/27/dezi-freeman-search-one-month-on-how-long-police-continue-manhunt-porepunkah-shooting-ntwnfb"
+    },
+    {
+      "file": "newsimage/2025-09-27/E.U._and_Russia_battle_over_Moldova’s_future_as_elections_loom.png",
+      "title": "E.U. and Russia battle over Moldova’s future as elections loom",
+      "link": "https://www.washingtonpost.com/world/2025/09/27/moldova-elections-eu-russia/"
+    },
+    {
+      "file": "newsimage/2025-09-27/Education_unions_urge_Keir_Starmer_to_scrap_‘cruel’_two-child_benefit_cap.png",
+      "title": "Education unions urge Keir Starmer to scrap ‘cruel’ two child benefit cap",
+      "link": "https://www.theguardian.com/politics/2025/sep/27/education-unions-urge-keir-starmer-scrap-cruel-two-child-benefit-cap"
+    },
+    {
+      "file": "newsimage/2025-09-27/Eric_Adams_meets_with_Netanyahu_amid_mayoral_race_shaped_by_war_in_Gaza.png",
+      "title": "Eric Adams meets with Netanyahu amid mayoral race shaped by war in Gaza",
+      "link": "https://www.washingtonpost.com/world/2025/09/26/eric-adams-benjamin-netanyahu-zohran-mamdani-united-nations/"
+    },
+    {
+      "file": "newsimage/2025-09-27/FCA_faces_battle_over_£1m_ad_campaign_rejecting_car_loan_claims_firms.png",
+      "title": "FCA faces battle over £1m ad campaign rejecting car loan claims firms",
+      "link": "https://www.theguardian.com/business/2025/sep/27/fca-faces-battle-over-1m-ad-campaign-rejecting-car-loan-claims-firms"
+    },
+    {
+      "file": "newsimage/2025-09-27/Gay_Malaysian_man_rejected_for_Australian_protection_visa_could_face_persecution_over_sexuality,_tribunal_says.png",
+      "title": "Gay Malaysian man rejected for Australian protection visa could face persecution over sexuality, tribunal says",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/27/gay-malaysian-man-rejected-for-australian-protection-visa-could-face-persecution-over-sexuality-tribunal-says"
+    },
+    {
+      "file": "newsimage/2025-09-27/Israeli_loudspeakers_broadcast_Netanyahu’s_speech_to_UN_into_Gaza.png",
+      "title": "Israeli loudspeakers broadcast Netanyahu’s speech to UN into Gaza",
+      "link": "https://www.theguardian.com/world/2025/sep/26/israeli-loudspeakers-broadcast-netanyahu-speech-to-un-gaza"
+    },
+    {
+      "file": "newsimage/2025-09-27/Kamala_Harris’s_new_book_details_her_steep_challenges_without_acknowledging_her_failures.png",
+      "title": "Kamala Harris’s new book details her steep challenges without acknowledging her failures",
+      "link": "https://www.theguardian.com/us-news/2025/sep/27/amala-harris-107-days-analysis-biden-walz"
+    },
+    {
+      "file": "newsimage/2025-09-27/Keir_Starmer_to_warn_Labour_that_battle_with_Reform_is_‘fight_for_soul_of_the_nation’.png",
+      "title": "Keir Starmer to warn Labour that battle with Reform is ‘fight for soul of the nation’",
+      "link": "https://www.theguardian.com/politics/2025/sep/26/keir-starmer-warn-labour-battle-reform-fight-soul-nation"
+    },
+    {
+      "file": "newsimage/2025-09-27/Labour_seeks_‘ambitious’_youth_mobility_scheme_with_EU.png",
+      "title": "Labour seeks ‘ambitious’ youth mobility scheme with EU",
+      "link": "https://www.theguardian.com/world/2025/sep/27/labour-seeks-youth-mobility-scheme-with-eu"
+    },
+    {
+      "file": "newsimage/2025-09-27/Ladakh_statehood_activist_arrested_days_after_violent_crackdown_by_Modi.png",
+      "title": "Ladakh statehood activist arrested days after violent crackdown by Modi",
+      "link": "https://www.theguardian.com/world/2025/sep/26/activist-arrested-ladakh-crackdown-modi-sonam-wangchuk"
+    },
+    {
+      "file": "newsimage/2025-09-27/Moldovan_diaspora_critical_in_elections_as_country_battles_Russian_vote-buying,_says_former_minister.png",
+      "title": "Moldovan diaspora critical in elections as country battles Russian vote buying, says former minister",
+      "link": "https://www.theguardian.com/world/2025/sep/27/moldova-diaspora-critical-in-elections-as-country-battles-russian-vote-buying-says-former-minister"
+    },
+    {
+      "file": "newsimage/2025-09-27/Mother_and_baby_whale_trapped_in_shark_net_off_Queensland’s_Rainbow_Beach.png",
+      "title": "Mother and baby whale trapped in shark net off Queensland’s Rainbow Beach",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/27/mother-and-baby-whale-trapped-in-shark-net-off-queenslands-rainbow-beach"
+    },
+    {
+      "file": "newsimage/2025-09-27/NBA_basketball_was_huge_in_China._The_league_is_hoping_for_a_rebound..png",
+      "title": "NBA basketball was huge in China. The league is hoping for a rebound.",
+      "link": "https://www.washingtonpost.com/world/2025/09/26/nba-returns-china/"
+    },
+    {
+      "file": "newsimage/2025-09-27/Netanyahu_tells_U.N._that_war_will_continue_amid_global_backlash.png",
+      "title": "Netanyahu tells U.N. that war will continue amid global backlash",
+      "link": "https://www.washingtonpost.com/national-security/2025/09/26/israel-netanyahu-un-speech-gaza/"
+    },
+    {
+      "file": "newsimage/2025-09-27/Netanyahu_tells_UN_that_Israel_‘must_finish_the_job’_in_Gaza_after_dozens_of_delegates_walk_out_in_protest_-_as_it_happened.png",
+      "title": "Netanyahu tells UN that Israel ‘must finish the job’ in Gaza after dozens of delegates walk out in protest   as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/sep/26/gaza-israel-benjamin-netanyahu-un-united-nations-unga-west-bank-donald-trump-middle-east-crisis-live"
+    },
+    {
+      "file": "newsimage/2025-09-27/New_York_man_charged_with_parents’_murders_after_TV_confession.png",
+      "title": "New York man charged with parents’ murders after TV confession",
+      "link": "https://www.theguardian.com/us-news/2025/sep/27/new-york-man-murder-confession-tv-news"
+    },
+    {
+      "file": "newsimage/2025-09-27/Polish_climber_makes_history_skiing_down_Everest_without_bottled_oxygen.png",
+      "title": "Polish climber makes history skiing down Everest without bottled oxygen",
+      "link": "https://www.theguardian.com/sport/2025/sep/27/skier-makes-history-skiing-down-everest-without-bottled-oxygen"
+    },
+    {
+      "file": "newsimage/2025-09-27/State_Department_revokes_visa_for_Colombian_President_Gustavo_Petro.png",
+      "title": "State Department revokes visa for Colombian President Gustavo Petro",
+      "link": "https://www.washingtonpost.com/world/2025/09/27/gustavo-petro-colombia-visa-gaza/"
+    },
+    {
+      "file": "newsimage/2025-09-27/Trump_brags_of_‘massive’_oil_deal_in_Pakistan_– but_drilling_has_not_found_any.png",
+      "title": "Trump brags of ‘massive’ oil deal in Pakistan – but drilling has not found any",
+      "link": "https://www.theguardian.com/world/2025/sep/27/pakistan-us-oil-deal-analysis-trump"
+    },
+    {
+      "file": "newsimage/2025-09-27/Trump_urges_Microsoft_to_fire_lawyer_who_ran_investigation_into_attempt_to_overturn_2020_US_election_–_as_it_happened.png",
+      "title": "Trump urges Microsoft to fire lawyer who ran investigation into attempt to overturn 2020 US election – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/sep/26/james-comey-fbi-indictment-donald-trump-executive-orders-tariffs-us-politics-live"
+    },
+    {
+      "file": "newsimage/2025-09-27/Two_women_die_trying_to_cross_Channel_from_France.png",
+      "title": "Two women die trying to cross Channel from France",
+      "link": "https://www.theguardian.com/world/2025/sep/27/people-die-trying-cross-channel-from-france"
+    },
+    {
+      "file": "newsimage/2025-09-27/U.N._to_reimpose_sanctions_on_Iran_after_weeks_of_failed_diplomacy.png",
+      "title": "U.N. to reimpose sanctions on Iran after weeks of failed diplomacy",
+      "link": "https://www.washingtonpost.com/national-security/2025/09/26/iran-sanctions-witkoff-nuclear-un/"
+    },
+    {
+      "file": "newsimage/2025-09-27/US_revokes_visa_for_Colombian_president_Gustavo_Petro_after_‘reckless’_actions_in_New_York.png",
+      "title": "US revokes visa for Colombian president Gustavo Petro after ‘reckless’ actions in New York",
+      "link": "https://www.theguardian.com/us-news/2025/sep/27/us-revokes-visa-for-colombian-president-gustavo-petro-after-reckless-actions-in-new-york"
+    },
+    {
+      "file": "newsimage/2025-09-27/World_must_deny_Israel_‘tools_of_genocide’,_says_growing_alliance_of_activist_states.png",
+      "title": "World must deny Israel ‘tools of genocide’, says growing alliance of activist states",
+      "link": "https://www.theguardian.com/world/2025/sep/26/world-must-deny-israel-tools-of-genocide-says-growing-alliance-of-activist-states"
+    },
+    {
+      "file": "newsimage/2025-09-27/‘A_donkey_cart_out_of_El_Fasher_costs_more_than_a_new_car’-_how_500_days_under_siege_is_tearing_the_city_apart.png",
+      "title": "‘A donkey cart out of El Fasher costs more than a new car’  how 500 days under siege is tearing the city apart",
+      "link": "https://www.theguardian.com/global-development/2025/sep/27/el-fasher-darfur-sudan-rsf-donkey-cart-costs-more-than-a-car"
+    },
+    {
+      "file": "newsimage/2025-09-27/‘Don’t_trust_Trump’-_how_UK_health_experts_are_fighting_back_against_a_war_on_medicine.png",
+      "title": "‘Don’t trust Trump’  how UK health experts are fighting back against a war on medicine",
+      "link": "https://www.theguardian.com/news/ng-interactive/2025/sep/27/dont-trust-trump-how-uk-health-experts-fighting-back-war-medicine"
+    },
+    {
+      "file": "newsimage/2025-09-27/‘Hell_on_earth’-_immigrants_held_in_new_California_detention_facility_beg_for_help.png",
+      "title": "‘Hell on earth’  immigrants held in new California detention facility beg for help",
+      "link": "https://www.theguardian.com/us-news/2025/sep/27/immigrants-california-detention-facility"
+    }
+  ],
+  "2025-09-26": [
+    {
+      "file": "newsimage/2025-09-26/Abnormally_hot_days_may_hit_Australia’s_south-east_after_rare_sudden_warming_over_Antarctica.png",
+      "title": "Abnormally hot days may hit Australia’s south east after rare sudden warming over Antarctica",
+      "link": "https://www.theguardian.com/environment/2025/sep/26/fears-of-abnormally-hot-days-in-southern-australia-after-sudden-stratospheric-warming-over-antarctica"
+    },
+    {
+      "file": "newsimage/2025-09-26/After_U.S._strikes,_Iran_increases_work_at_mysterious_underground_site.png",
+      "title": "After U.S. strikes, Iran increases work at mysterious underground site",
+      "link": "https://www.washingtonpost.com/national-security/2025/09/26/iran-underground-nuclear-us/"
+    },
+    {
+      "file": "newsimage/2025-09-26/A_respected_European_statesman_has_praise_for_Trump.png",
+      "title": "A respected European statesman has praise for Trump",
+      "link": "https://www.washingtonpost.com/world/2025/09/26/trump-ukraine-stubb-finland/"
+    },
+    {
+      "file": "newsimage/2025-09-26/Benjamin_Netanyahu_set_for_defiant_UN_speech_as_Trump_warns_on_annexation_of_West_Bank_-_Middle_East_crisis_live.png",
+      "title": "Benjamin Netanyahu set for defiant UN speech as Trump warns on annexation of West Bank   Middle East crisis live",
+      "link": "https://www.theguardian.com/world/live/2025/sep/26/gaza-israel-benjamin-netanyahu-un-united-nations-unga-west-bank-donald-trump-middle-east-crisis-live"
+    },
+    {
+      "file": "newsimage/2025-09-26/Big_trees_in_Amazon_more_climate-resistant_than_previously_believed.png",
+      "title": "Big trees in Amazon more climate resistant than previously believed",
+      "link": "https://www.theguardian.com/environment/2025/sep/25/study-shows-big-trees-in-amazon-more-climate-resistant-than-previously-believed"
+    },
+    {
+      "file": "newsimage/2025-09-26/Controversial_Queensland_mayor_Troy_Thompson_resigns_after_corruption_inquiry.png",
+      "title": "Controversial Queensland mayor Troy Thompson resigns after corruption inquiry",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/26/controversial-queensland-mayor-troy-thompson-resigns-after-corruption-probe"
+    },
+    {
+      "file": "newsimage/2025-09-26/Denmark_blames_‘systematic’_attack_as_mystery_drones_swarm_more_airports.png",
+      "title": "Denmark blames ‘systematic’ attack as mystery drones swarm more airports",
+      "link": "https://www.washingtonpost.com/world/2025/09/25/airport-russia-denmark-drones/"
+    },
+    {
+      "file": "newsimage/2025-09-26/Doug_Ford_to_ban_speed_cameras_in_Ontario_in_populist_appeal_to_suburban_voters.png",
+      "title": "Doug Ford to ban speed cameras in Ontario in populist appeal to suburban voters",
+      "link": "https://www.theguardian.com/world/2025/sep/25/ontario-speed-camera-ban-doug-ford"
+    },
+    {
+      "file": "newsimage/2025-09-26/Electoral_Commission_rejects_call_to_reopen_Labour_Together_investigation.png",
+      "title": "Electoral Commission rejects call to reopen Labour Together investigation",
+      "link": "https://www.theguardian.com/politics/2025/sep/26/morgan-mcsweeney-labour-together-electoral-commission-no-evidence-other-offences"
+    },
+    {
+      "file": "newsimage/2025-09-26/European_broadcasters_to_vote_on_expelling_Israel_from_Eurovision_2026.png",
+      "title": "European broadcasters to vote on expelling Israel from Eurovision 2026",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/25/european-broadcasters-to-vote-on-expelling-israel-from-eurovision-2026"
+    },
+    {
+      "file": "newsimage/2025-09-26/EU_countries_and_Ukraine_to_hold_talks_on_‘drone_wall’_to_counter_growing_threat_from_Russia_and_others_–_Europe_live.png",
+      "title": "EU countries and Ukraine to hold talks on ‘drone wall’ to counter growing threat from Russia and others – Europe live",
+      "link": "https://www.theguardian.com/world/live/2025/sep/26/denmark-drone-sightings-airport-russia-ukraine-europe-live-news"
+    },
+    {
+      "file": "newsimage/2025-09-26/Ex-FBI_director_James_Comey_indicted_on_two_charges_with_reports_that_he_will_surrender_on_Friday_-_US_politics_live.png",
+      "title": "Ex FBI director James Comey indicted on two charges with reports that he will surrender on Friday   US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2025/sep/26/james-comey-fbi-indictment-donald-trump-executive-orders-tariffs-us-politics-live"
+    },
+    {
+      "file": "newsimage/2025-09-26/Former_French_president_handed_5-year_prison_term_over_Gaddafi_money.png",
+      "title": "Former French president handed 5 year prison term over Gaddafi money",
+      "link": "https://www.washingtonpost.com/world/2025/09/25/french-nicolas-sarkozy-sentenced/"
+    },
+    {
+      "file": "newsimage/2025-09-26/Gaza_City_hospitals_close,_patients_flee_as_Israeli_forces_advance.png",
+      "title": "Gaza City hospitals close, patients flee as Israeli forces advance",
+      "link": "https://www.washingtonpost.com/world/2025/09/25/gaza-city-hospitals-close/"
+    },
+    {
+      "file": "newsimage/2025-09-26/Has_Pakistan_extended_its_nuclear_umbrella_to_Riyadh_No_one_will_say..png",
+      "title": "Has Pakistan extended its nuclear umbrella to Riyadh No one will say.",
+      "link": "https://www.washingtonpost.com/world/2025/09/26/pakistan-saudi-arabia-security-nuclear-weapons/"
+    },
+    {
+      "file": "newsimage/2025-09-26/Immigrants_with_no_criminal_record_now_largest_group_in_Ice_detention.png",
+      "title": "Immigrants with no criminal record now largest group in Ice detention",
+      "link": "https://www.theguardian.com/us-news/2025/sep/26/immigrants-criminal-record-ice-detention"
+    },
+    {
+      "file": "newsimage/2025-09-26/Iran_snapback_sanctions_loom_as_UN_security_council_set_to_vote_on_nuclear_programme.png",
+      "title": "Iran snapback sanctions loom as UN security council set to vote on nuclear programme",
+      "link": "https://www.theguardian.com/world/2025/sep/26/iran-snapback-sanctions-un-security-council-vote-nuclear-programme"
+    },
+    {
+      "file": "newsimage/2025-09-26/Israel’s_future_in_Uefa_could_come_to_a_head_before_World_Cup_qualifiers.png",
+      "title": "Israel’s future in Uefa could come to a head before World Cup qualifiers",
+      "link": "https://www.theguardian.com/football/2025/sep/25/israel-future-in-uefa-october-world-cup-qualifiers-suspension-maccabi-tel-aviv"
+    },
+    {
+      "file": "newsimage/2025-09-26/Man_fined_$340,000_for_deepfake_pornography_of_prominent_Australian_women_in_first-of-its-kind_case.png",
+      "title": "Man fined $340,000 for deepfake pornography of prominent Australian women in first of its kind case",
+      "link": "https://www.theguardian.com/technology/2025/sep/26/man-fined-34000-for-deepfake-pornography-of-prominent-australian-women-in-first-of-its-kind-case"
+    },
+    {
+      "file": "newsimage/2025-09-26/Menzies_Campbell,_former_Liberal_Democrat_leader,_dies_at_84.png",
+      "title": "Menzies Campbell, former Liberal Democrat leader, dies at 84",
+      "link": "https://www.theguardian.com/politics/2025/sep/26/menzies-campbell-former-liberal-democrat-leader-dies-at-84"
+    },
+    {
+      "file": "newsimage/2025-09-26/Netanyahu_to_address_U.N._amid_widening_global_backlash.png",
+      "title": "Netanyahu to address U.N. amid widening global backlash",
+      "link": "https://www.washingtonpost.com/national-security/2025/09/26/israel-netanyahu-un-speech-gaza/"
+    },
+    {
+      "file": "newsimage/2025-09-26/New_research_may_rewrite_origins_of_the_Book_of_Kells,_says_academic.png",
+      "title": "New research may rewrite origins of the Book of Kells, says academic",
+      "link": "https://www.theguardian.com/books/2025/sep/26/new-research-may-rewrite-origins-of-the-book-of-kells-says-academic"
+    },
+    {
+      "file": "newsimage/2025-09-26/Opponents_of_Australia_cutting_emissions_pointed_to_China’s_lack_of_a_target._That_argument_just_got_harder_to_make.png",
+      "title": "Opponents of Australia cutting emissions pointed to China’s lack of a target. That argument just got harder to make",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/26/china-first-emissions-reduction-target-announced-global-impact"
+    },
+    {
+      "file": "newsimage/2025-09-26/Reform_UK’s_ex-leader_in_Wales_Nathan_Gill_pleads_guilty_to_bribery_charges.png",
+      "title": "Reform UK’s ex leader in Wales Nathan Gill pleads guilty to bribery charges",
+      "link": "https://www.theguardian.com/uk-news/2025/sep/26/reform-uk-ex-leader-wales-nathan-gill-pleads-guilty-bribery-charges"
+    },
+    {
+      "file": "newsimage/2025-09-26/Russia_is_helping_prepare_China_to_attack_Taiwan,_documents_suggest.png",
+      "title": "Russia is helping prepare China to attack Taiwan, documents suggest",
+      "link": "https://www.washingtonpost.com/world/2025/09/26/russia-china-weapons-sales-air-assault/"
+    },
+    {
+      "file": "newsimage/2025-09-26/Sarkozy_says_he_will_‘sleep_in_jail_but_with_head_held_high’_after_conviction.png",
+      "title": "Sarkozy says he will ‘sleep in jail but with head held high’ after conviction",
+      "link": "https://www.theguardian.com/world/2025/sep/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-trial"
+    },
+    {
+      "file": "newsimage/2025-09-26/Sarkozy’s_spectacular_downfall_marks_turning_point_in_France’s_struggle_against_graft.png",
+      "title": "Sarkozy’s spectacular downfall marks turning point in France’s struggle against graft",
+      "link": "https://www.theguardian.com/world/2025/sep/25/sarkozys-spectacular-downfall-marks-turning-point-in-frances-struggle-against-graft"
+    },
+    {
+      "file": "newsimage/2025-09-26/Super_Typhoon_Ragasa_rampages_through_Taiwan,_Hong_Kong_and_southern_China.png",
+      "title": "Super Typhoon Ragasa rampages through Taiwan, Hong Kong and southern China",
+      "link": "https://www.theguardian.com/environment/2025/sep/26/super-typhoon-ragasa-rampages-through-taiwan-hong-kong-and-southern-china"
+    },
+    {
+      "file": "newsimage/2025-09-26/Terrorism_case_against_Kneecap_rapper_Liam_Óg_Ó_hAnnaidh_thrown_out.png",
+      "title": "Terrorism case against Kneecap rapper Liam Óg Ó hAnnaidh thrown out",
+      "link": "https://www.theguardian.com/music/2025/sep/26/terrorism-case-against-kneecap-rapper-liam-og-o-hannaidh-thrown-out"
+    },
+    {
+      "file": "newsimage/2025-09-26/Treasury_‘putting_the_squeeze’_on_OBR_over_Labour_growth_plans_amid_tensions_over_downgrade.png",
+      "title": "Treasury ‘putting the squeeze’ on OBR over Labour growth plans amid tensions over downgrade",
+      "link": "https://www.theguardian.com/business/2025/sep/26/treasury-putting-squeeze-on-obr-growth-plans-tensions-over-downgrade-rachel-reeves"
+    },
+    {
+      "file": "newsimage/2025-09-26/Trump_administration_calls_for_radical_reform_of_world’s_asylum_system.png",
+      "title": "Trump administration calls for radical reform of world’s asylum system",
+      "link": "https://www.washingtonpost.com/national-security/2025/09/25/trump-asylum-reforms-christopher-landau/"
+    },
+    {
+      "file": "newsimage/2025-09-26/Trump_says_he_‘will_not_allow’_Israel_to_annex_West_Bank_after_lobbying_from_allies.png",
+      "title": "Trump says he ‘will not allow’ Israel to annex West Bank after lobbying from allies",
+      "link": "https://www.theguardian.com/world/2025/sep/26/trump-says-he-will-not-allow-israel-to-annex-west-bank-after-lobbying-from-allies"
+    },
+    {
+      "file": "newsimage/2025-09-26/Trump_says_Kyiv_can_win_back_all_its_land._It’s_not_that_simple..png",
+      "title": "Trump says Kyiv can win back all its land. It’s not that simple.",
+      "link": "https://www.washingtonpost.com/world/2025/09/25/ukraine-russia-territory-win/"
+    },
+    {
+      "file": "newsimage/2025-09-26/Trump_signs_executive_order_to_transfer_TikTok_to_US_owners.png",
+      "title": "Trump signs executive order to transfer TikTok to US owners",
+      "link": "https://www.theguardian.com/technology/2025/sep/25/trump-china-tiktok-deal"
+    },
+    {
+      "file": "newsimage/2025-09-26/U.K._plans_mandatory_digital_ID_to_clamp_down_on_migrants_working_illegally.png",
+      "title": "U.K. plans mandatory digital ID to clamp down on migrants working illegally",
+      "link": "https://www.washingtonpost.com/world/2025/09/26/uk-id-card-starmer-migration/"
+    },
+    {
+      "file": "newsimage/2025-09-26/Washington_backing_plan_for_Tony_Blair_to_head_transitional_Gaza_authority.png",
+      "title": "Washington backing plan for Tony Blair to head transitional Gaza authority",
+      "link": "https://www.theguardian.com/world/2025/sep/25/washington-backing-plan-for-tony-blair-to-head-transitional-gaza-authority"
+    },
+    {
+      "file": "newsimage/2025-09-26/‘Blood_on_these_walls’-_Mudrat_tears_into_ABC’s_Gaza_coverage_during_Triple_J_live_set.png",
+      "title": "‘Blood on these walls’  Mudrat tears into ABC’s Gaza coverage during Triple J live set",
+      "link": "https://www.theguardian.com/media/2025/sep/26/mudrat-criticises-abc-coverage-israel-gaza-war-triple-j-live-set-palestinian-keffiyeh"
+    },
+    {
+      "file": "newsimage/2025-09-26/‘History_will_remember_who_showed_up’-_Keir_Starmer_faces_call_to_attend_Cop30_summit.png",
+      "title": "‘History will remember who showed up’  Keir Starmer faces call to attend Cop30 summit",
+      "link": "https://www.theguardian.com/environment/2025/sep/26/keir-starmer-faces-call-to-attend-cop30-summit"
+    }
+  ],
   "2025-09-25": [
     {
       "file": "newsimage/2025-09-25/After_Trump_targets_H-1B_visas,_can_India_lure_back_skilled_workers.png",
