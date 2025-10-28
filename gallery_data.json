@@ -1,4 +1,530 @@
 {
+  "2025-10-27": [
+    {
+      "file": "newsimage/2025-10-27/Argentina’s_Milei_wins_friendlier_Congress_in_midterms_after_U.S._bailout.png",
+      "title": "Argentina’s Milei wins friendlier Congress in midterms after U.S. bailout",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/argentina-midterm-election-milei-trump-bailout/"
+    },
+    {
+      "file": "newsimage/2025-10-27/As_U.S._forces_close_in_on_Venezuela,_lawmakers_warn_of_‘expanding’_operation.png",
+      "title": "As U.S. forces close in on Venezuela, lawmakers warn of ‘expanding’ operation",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/us-military-ships-planes-venezuela/"
+    },
+    {
+      "file": "newsimage/2025-10-27/Barnaby_Joyce’s_walkout_and_endless_net_zero_rehashing_The_Nationals_are_‘having_a_normal_one’.png",
+      "title": "Barnaby Joyce’s walkout and endless net zero rehashing The Nationals are ‘having a normal one’",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/27/barnaby-joyce-walkout-net-zero-rehashing-nationals-coalition"
+    },
+    {
+      "file": "newsimage/2025-10-27/Bear_attack_survival_tips_released_in_Japan_as_encounters_surge.png",
+      "title": "Bear attack survival tips released in Japan as encounters surge",
+      "link": "https://www.theguardian.com/world/2025/oct/27/bear-attack-survival-tips-released-in-japan-as-encounters-surge"
+    },
+    {
+      "file": "newsimage/2025-10-27/Before_Trump_gutted_the_White_House,_Erdogan_built_his_‘White_Palace’.png",
+      "title": "Before Trump gutted the White House, Erdogan built his ‘White Palace’",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/trump-erdogan-renovation-palace-turkey-white-house/"
+    },
+    {
+      "file": "newsimage/2025-10-27/Björn_Andrésen,_Swedish_actor_who_starred_in_Death_in_Venice,_dies_aged_70.png",
+      "title": "Björn Andrésen, Swedish actor who starred in Death in Venice, dies aged 70",
+      "link": "https://www.theguardian.com/film/2025/oct/27/bjorn-andresen-swedish-actor-dies-aged-70"
+    },
+    {
+      "file": "newsimage/2025-10-27/Chinese_and_U.S._officials_tentatively_agree_to_avert_100_percent_tariffs.png",
+      "title": "Chinese and U.S. officials tentatively agree to avert 100 percent tariffs",
+      "link": "https://www.washingtonpost.com/politics/2025/10/26/trump-china-trade-deal/"
+    },
+    {
+      "file": "newsimage/2025-10-27/Donald_Trump_greeted_by_Emperor_Naruhito_in_Japan_before_meeting_new_prime_minister_–_US_politics_live.png",
+      "title": "Donald Trump greeted by Emperor Naruhito in Japan before meeting new prime minister – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2025/oct/27/donald-trump-japan-sanae-takaichi-asia-canada-trade-news-updates-us-politics-live"
+    },
+    {
+      "file": "newsimage/2025-10-27/Donald_Trump_‘would_love’_unconstitutional_third_term_but_rules_out_running_for_VP.png",
+      "title": "Donald Trump ‘would love’ unconstitutional third term but rules out running for VP",
+      "link": "https://www.theguardian.com/us-news/2025/oct/27/donald-trump-third-term-vice-president"
+    },
+    {
+      "file": "newsimage/2025-10-27/Environment_minister_could_approve_projects_at_odds_with_nature_laws_under_Labor_overhaul.png",
+      "title": "Environment minister could approve projects at odds with nature laws under Labor overhaul",
+      "link": "https://www.theguardian.com/environment/2025/oct/27/environment-minister-could-approve-projects-at-odds-with-nature-laws-under-labor-overhaul"
+    },
+    {
+      "file": "newsimage/2025-10-27/Germany_needs_a_bigger_military,_but_young_people_are_divided_on_serving.png",
+      "title": "Germany needs a bigger military, but young people are divided on serving",
+      "link": "https://www.washingtonpost.com/world/2025/10/27/germany-military-debate-obligatory-service/"
+    },
+    {
+      "file": "newsimage/2025-10-27/Hannah_McGuire’s_mother_tells_murderer_she_hopes_he_suffers_‘most_intense_pain_imaginable’_for_life.png",
+      "title": "Hannah McGuire’s mother tells murderer she hopes he suffers ‘most intense pain imaginable’ for life",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/27/hannah-mcguire-mother-tells-murderer-lachlan-young-court-hope-he-suffers-most-intense-pain-ntwnfb"
+    },
+    {
+      "file": "newsimage/2025-10-27/Hurricane_Melissa_strengthens_to_category_5_as_evacuations_ordered_in_Jamaica’s_capital.png",
+      "title": "Hurricane Melissa strengthens to category 5 as evacuations ordered in Jamaica’s capital",
+      "link": "https://www.theguardian.com/world/2025/oct/26/hurricane-melissa-strengthens-into-category-4-approaches-jamaica"
+    },
+    {
+      "file": "newsimage/2025-10-27/Hurricane_Melissa_threatens_Jamaica_with_worst-case_scenario_as_Category_5.png",
+      "title": "Hurricane Melissa threatens Jamaica with worst case scenario as Category 5",
+      "link": "https://www.washingtonpost.com/weather/2025/10/27/hurricane-melissa-jamaica/"
+    },
+    {
+      "file": "newsimage/2025-10-27/Iranian_women_flout_law_on_mandatory_veiling_as_police_curtail_arrests.png",
+      "title": "Iranian women flout law on mandatory veiling as police curtail arrests",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/iran-women-hijab-veil-arrests/"
+    },
+    {
+      "file": "newsimage/2025-10-27/Jack_DeJohnette,_versatile_jazz_drummer_known_for_Miles_Davis_fusion_recordings,_dies_aged_83.png",
+      "title": "Jack DeJohnette, versatile jazz drummer known for Miles Davis fusion recordings, dies aged 83",
+      "link": "https://www.theguardian.com/music/2025/oct/27/jack-dejohnette-versatile-jazz-drummer-miles-davis-fusion-dies-aged-83"
+    },
+    {
+      "file": "newsimage/2025-10-27/Javier_Milei_hails_‘tipping_point’_as_his_far-right_party_wins_Argentina’s_midterm_elections.png",
+      "title": "Javier Milei hails ‘tipping point’ as his far right party wins Argentina’s midterm elections",
+      "link": "https://www.theguardian.com/world/2025/oct/27/javier-milei-president-far-right-party-wins-argentina-midterm-elections"
+    },
+    {
+      "file": "newsimage/2025-10-27/Kaye_Adams_says_her_name_was_‘dragged_through_the_mud’_after_BBC_Scotland_suspension.png",
+      "title": "Kaye Adams says her name was ‘dragged through the mud’ after BBC Scotland suspension",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/27/kaye-adams-name-dragged-through-mud-bbc-scotland-suspension"
+    },
+    {
+      "file": "newsimage/2025-10-27/Lithuania_closes_border_with_Belarus_after_balloons_shut_down_Vilnius_airport_–_Europe_live.png",
+      "title": "Lithuania closes border with Belarus after balloons shut down Vilnius airport – Europe live",
+      "link": "https://www.theguardian.com/world/live/2025/oct/27/lithuania-airport-russia-belarus-viktor-orban-pope-leo-europe-live-news-updates"
+    },
+    {
+      "file": "newsimage/2025-10-27/Man_arrested_on_suspicion_of_racially_aggravated_rape_in_Walsall.png",
+      "title": "Man arrested on suspicion of racially aggravated rape in Walsall",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/27/man-arrested-racially-aggravated-rape-walsall"
+    },
+    {
+      "file": "newsimage/2025-10-27/Night-flying_insects_over_UK_in_decline,_weather_radar_study_reveals.png",
+      "title": "Night flying insects over UK in decline, weather radar study reveals",
+      "link": "https://www.theguardian.com/environment/2025/oct/27/night-flying-insects-over-uk-in-decline-weather-radar-study-reveals"
+    },
+    {
+      "file": "newsimage/2025-10-27/Oil_and_gas_firm_Petrofac_files_for_administration,_putting_thousands_of_jobs_at_risk.png",
+      "title": "Oil and gas firm Petrofac files for administration, putting thousands of jobs at risk",
+      "link": "https://www.theguardian.com/business/2025/oct/27/oil-gas-petrofac-files-for-administration-jobs-north-sea"
+    },
+    {
+      "file": "newsimage/2025-10-27/Opposition_wants_‘balanced_outcome’_on_environment_protection_reforms_–_as_it_happened.png",
+      "title": "Opposition wants ‘balanced outcome’ on environment protection reforms – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/oct/27/epbc-environment-laws-ai-copyright-lobbying-transparency-federal-parliament-anthony-albanese-asean-sussan-ley-murray-watt-ntwnfb"
+    },
+    {
+      "file": "newsimage/2025-10-27/Police_arrest_Louvre_heist_suspects,_Paris_prosecutor_says.png",
+      "title": "Police arrest Louvre heist suspects, Paris prosecutor says",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/louvre-robbery-arrests/"
+    },
+    {
+      "file": "newsimage/2025-10-27/Radiohead’s_Thom_Yorke_says_he_would_‘absolutely_not’_play_in_Israel_now.png",
+      "title": "Radiohead’s Thom Yorke says he would ‘absolutely not’ play in Israel now",
+      "link": "https://www.theguardian.com/music/2025/oct/27/radiohead-thom-yorke-would-not-play-israel"
+    },
+    {
+      "file": "newsimage/2025-10-27/Red_Cross_accompanies_Hamas_in_search_for_bodies_of_Israeli_hostages_in_Gaza.png",
+      "title": "Red Cross accompanies Hamas in search for bodies of Israeli hostages in Gaza",
+      "link": "https://www.theguardian.com/world/2025/oct/27/red-cross-accompanies-hamas-in-search-for-bodies-of-israeli-hostages-in-gaza"
+    },
+    {
+      "file": "newsimage/2025-10-27/Republican_senator_calls_Trump’s_military_airstrikes_‘extrajudicial_killings’.png",
+      "title": "Republican senator calls Trump’s military airstrikes ‘extrajudicial killings’",
+      "link": "https://www.theguardian.com/us-news/2025/oct/27/rand-paul-trump-military-airstrikes-venezuela"
+    },
+    {
+      "file": "newsimage/2025-10-27/Sudanese_paramilitary_enters_army’s_last_stronghold_in_Darfur.png",
+      "title": "Sudanese paramilitary enters army’s last stronghold in Darfur",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/sudan-rsf-el-fashir-darfur/"
+    },
+    {
+      "file": "newsimage/2025-10-27/Ten_people_go_on_trial_in_Paris_for_online_harassment_of_Brigitte_Macron.png",
+      "title": "Ten people go on trial in Paris for online harassment of Brigitte Macron",
+      "link": "https://www.theguardian.com/world/2025/oct/27/trial-paris-brigitte-macron-online-harassment-jean-michel-trogneux"
+    },
+    {
+      "file": "newsimage/2025-10-27/Trump_cuts_likely_hindered_warning_process_for_Alaska_storm_that_displaced_hundreds,_experts_say.png",
+      "title": "Trump cuts likely hindered warning process for Alaska storm that displaced hundreds, experts say",
+      "link": "https://www.theguardian.com/us-news/2025/oct/27/alaska-storm-emergency-response-trump-cuts"
+    },
+    {
+      "file": "newsimage/2025-10-27/Trump_describes_Russia’s_new_cruise_missile_test_as_‘not_appropriate’.png",
+      "title": "Trump describes Russia’s new cruise missile test as ‘not appropriate’",
+      "link": "https://www.theguardian.com/world/2025/oct/27/russia-cruise-missile-test-trump-putin"
+    },
+    {
+      "file": "newsimage/2025-10-27/US_and_China_agree_‘framework’_for_trade_deal_ahead_of_Xi-Trump_meeting.png",
+      "title": "US and China agree ‘framework’ for trade deal ahead of Xi Trump meeting",
+      "link": "https://www.theguardian.com/us-news/2025/oct/27/us-china-framework-trade-deal-xi-trump-meeting"
+    },
+    {
+      "file": "newsimage/2025-10-27/US_and_China_reach_‘final_deal’_on_TikTok_sale,_treasury_secretary_says.png",
+      "title": "US and China reach ‘final deal’ on TikTok sale, treasury secretary says",
+      "link": "https://www.theguardian.com/technology/2025/oct/26/us-china-tiktok-deal-scott-bessent"
+    },
+    {
+      "file": "newsimage/2025-10-27/Weather_tracker-_Jamaica_braces_for_its_most_powerful_hurricane_as_Melissa_nears_category_5.png",
+      "title": "Weather tracker  Jamaica braces for its most powerful hurricane as Melissa nears category 5",
+      "link": "https://www.theguardian.com/environment/2025/oct/27/jamaica-powerful-hurricane-melissa-category-5-landfall-new-zealand-storm"
+    },
+    {
+      "file": "newsimage/2025-10-27/World’s_oldest_serving_head_of_state_declared_winner_in_Cameroon_election.png",
+      "title": "World’s oldest serving head of state declared winner in Cameroon election",
+      "link": "https://www.theguardian.com/world/2025/oct/27/cameroon-paul-biya-oldest-serving-head-of-state-declared-winner-in-election"
+    },
+    {
+      "file": "newsimage/2025-10-27/‘Open_hostility_has_become_normalised’-_Dutch_Muslims_fear_rise_of_far_right_as_general_election_looms.png",
+      "title": "‘Open hostility has become normalised’  Dutch Muslims fear rise of far right as general election looms",
+      "link": "https://www.theguardian.com/world/2025/oct/27/geert-wilders-netherlands-dutch-muslims-fear-rise-of-far-right"
+    }
+  ],
+  "2025-10-26": [
+    {
+      "file": "newsimage/2025-10-26/At_least_four_killed_in_Russian_strikes_overnight_on_Ukraine.png",
+      "title": "At least four killed in Russian strikes overnight on Ukraine",
+      "link": "https://www.theguardian.com/world/2025/oct/25/russian-overnight-strikes-ukraine-zelenskyy-sanctions-oil"
+    },
+    {
+      "file": "newsimage/2025-10-26/Australia_news_live-_thunderstorm_asthma_warning_for_Victoria’s_north_as_wild_weather_threatens_east_coast.png",
+      "title": "Australia news live  thunderstorm asthma warning for Victoria’s north as wild weather threatens east coast",
+      "link": "https://www.theguardian.com/australia-news/live/2025/oct/26/australia-news-live-anthony-albanese-asean-apac-coalition-matt-canavan-renewable-energy-solar-power"
+    },
+    {
+      "file": "newsimage/2025-10-26/A_year_on_as_Queensland_premier,_will_David_Crisafulli’s_small-target_strategy_prove_his_undoing.png",
+      "title": "A year on as Queensland premier, will David Crisafulli’s small target strategy prove his undoing",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/26/queensland-premier-david-crisafulli-one-year-on"
+    },
+    {
+      "file": "newsimage/2025-10-26/Cruise_control-_could_a_£5_‘entry’_fee_help_balance_Orkney’s_needs_with_tourist_demand.png",
+      "title": "Cruise control  could a £5 ‘entry’ fee help balance Orkney’s needs with tourist demand",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/26/orkney-council-tourist-levy-call-visitor-boom"
+    },
+    {
+      "file": "newsimage/2025-10-26/Do_populists_always_crash_the_economy.png",
+      "title": "Do populists always crash the economy",
+      "link": "https://www.theguardian.com/news/ng-interactive/2025/oct/26/do-populists-always-crash-the-economy"
+    },
+    {
+      "file": "newsimage/2025-10-26/Fears_Gaza_‘temporary’_ceasefire_line_could_become_permanent_new_border.png",
+      "title": "Fears Gaza ‘temporary’ ceasefire line could become permanent new border",
+      "link": "https://www.theguardian.com/world/2025/oct/26/fears-gaza-temporary-ceasefire-line-could-become-permanent-new-border"
+    },
+    {
+      "file": "newsimage/2025-10-26/Gun_violence_prevention_groups_disqualified_from_grants_built_around_their_work.png",
+      "title": "Gun violence prevention groups disqualified from grants built around their work",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/gun-violence-prevention-non-profit-grants-disqualified"
+    },
+    {
+      "file": "newsimage/2025-10-26/High_court_halts_eviction_of_refugee_under_Home_Office_28-day_policy.png",
+      "title": "High court halts eviction of refugee under Home Office 28 day policy",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/26/high-court-halts-eviction-of-refugee-under-home-office-28-day-policy"
+    },
+    {
+      "file": "newsimage/2025-10-26/How_one_cyber-scamming_syndicate_used_Singapore_for_legitimacy.png",
+      "title": "How one cyber scamming syndicate used Singapore for legitimacy",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/cyber-scamming-prince-group-syndicate-singapore/"
+    },
+    {
+      "file": "newsimage/2025-10-26/How_Trump’s_perception_of_Japan_collides_with_today’s_economic_reality.png",
+      "title": "How Trump’s perception of Japan collides with today’s economic reality",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/trump-japan-tariffs-trade/"
+    },
+    {
+      "file": "newsimage/2025-10-26/Ireland_elects_a_leftist_who_campaigned_on_economic_justice,_Gaza.png",
+      "title": "Ireland elects a leftist who campaigned on economic justice, Gaza",
+      "link": "https://www.washingtonpost.com/world/2025/10/25/ireland-president-catherine-connolly-elected/"
+    },
+    {
+      "file": "newsimage/2025-10-26/Line_drawn_by_19th-century_Britain_stokes_Pakistan-Taliban_tension.png",
+      "title": "Line drawn by 19th century Britain stokes Pakistan Taliban tension",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/afghanistan-pakistan-border-durand-line/"
+    },
+    {
+      "file": "newsimage/2025-10-26/Minister_to_retain_final_say_on_controversial_projects_under_Labor’s_long-awaited_nature_laws.png",
+      "title": "Minister to retain final say on controversial projects under Labor’s long awaited nature laws",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/26/minister-to-retain-final-say-on-controversial-projects-under-labors-long-awaited-nature-laws"
+    },
+    {
+      "file": "newsimage/2025-10-26/New_Jersey_officer_charged_after_going_out_for_pizza_instead_of_responding_to_shooting.png",
+      "title": "New Jersey officer charged after going out for pizza instead of responding to shooting",
+      "link": "https://www.theguardian.com/us-news/2025/oct/25/new-jersey-pizza-double-homicide"
+    },
+    {
+      "file": "newsimage/2025-10-26/Peer_trying_to_derail_UK_smoking_ban_discussed_bill_with_relative_at_tobacco_firm.png",
+      "title": "Peer trying to derail UK smoking ban discussed bill with relative at tobacco firm",
+      "link": "https://www.theguardian.com/business/2025/oct/26/uk-smoking-ban-lord-strathcarron-relative-british-american-tobacco"
+    },
+    {
+      "file": "newsimage/2025-10-26/Police_arrest_Louvre_heist_suspects,_Paris_prosecutor_says.png",
+      "title": "Police arrest Louvre heist suspects, Paris prosecutor says",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/louvre-robbery-arrests/"
+    },
+    {
+      "file": "newsimage/2025-10-26/Russia_arrests_Ukrainian_biologist_for_backing_curbs_on_Antarctic_krill_fishing.png",
+      "title": "Russia arrests Ukrainian biologist for backing curbs on Antarctic krill fishing",
+      "link": "https://www.theguardian.com/environment/2025/oct/26/russia-ukrainian-biologist-leonid-pshenichnov-arrest-treason-antarctic-krill-overfishing"
+    },
+    {
+      "file": "newsimage/2025-10-26/Sudanese_paramilitary_enters_army’s_last_stronghold_in_Darfur.png",
+      "title": "Sudanese paramilitary enters army’s last stronghold in Darfur",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/sudan-rsf-el-fashir-darfur/"
+    },
+    {
+      "file": "newsimage/2025-10-26/Trump_oversees_Thailand-Cambodia_ceasefire_signing_as_Asia_tour_gets_under_way.png",
+      "title": "Trump oversees Thailand Cambodia ceasefire signing as Asia tour gets under way",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/trump-oversees-thailand-cambodia-ceasefire-signing-as-asia-tour-gets-under-way"
+    },
+    {
+      "file": "newsimage/2025-10-26/Trump_raises_tariffs_on_Canada_by_10%_in_retaliation_for_anti-tariff_TV_ad.png",
+      "title": "Trump raises tariffs on Canada by 10% in retaliation for anti tariff TV ad",
+      "link": "https://www.theguardian.com/us-news/2025/oct/25/trump-tariffs-canada-ronald-reagan"
+    },
+    {
+      "file": "newsimage/2025-10-26/Trump_raises_tariffs_on_Canada_by_10%_over_Reagan_ad.png",
+      "title": "Trump raises tariffs on Canada by 10% over Reagan ad",
+      "link": "https://www.washingtonpost.com/politics/2025/10/25/trump-canada-tariffs-reagan-ad/"
+    },
+    {
+      "file": "newsimage/2025-10-26/Trump_sanctions_have_swift_impact_but_will_world_stop_buying_Russian_oil_and_gas.png",
+      "title": "Trump sanctions have swift impact but will world stop buying Russian oil and gas",
+      "link": "https://www.theguardian.com/business/2025/oct/26/trump-sanctions-impact-russian-oil-gas"
+    },
+    {
+      "file": "newsimage/2025-10-26/Trump’s_move_to_pay_troops_amid_shutdown_sets_dangerous_precedent,_experts_warn.png",
+      "title": "Trump’s move to pay troops amid shutdown sets dangerous precedent, experts warn",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/trump-military-pay-government-shutdown"
+    },
+    {
+      "file": "newsimage/2025-10-26/Two_men_arrested_after_Louvre_jewel_heist.png",
+      "title": "Two men arrested after Louvre jewel heist",
+      "link": "https://www.theguardian.com/world/2025/oct/26/two-men-reportedly-arrested-after-louvre-jewel-heist"
+    },
+    {
+      "file": "newsimage/2025-10-26/What_to_know_about_the_U.S._forces_closing_in_on_Venezuela.png",
+      "title": "What to know about the U.S. forces closing in on Venezuela",
+      "link": "https://www.washingtonpost.com/world/2025/10/26/us-military-ships-planes-venezuela/"
+    },
+    {
+      "file": "newsimage/2025-10-26/‘Ignorant’-_former_Labor_MP_condemns_Minns_government_for_threatening_Blue_Mountains_protesters_over_historic_site.png",
+      "title": "‘Ignorant’  former Labor MP condemns Minns government for threatening Blue Mountains protesters over historic site",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/26/ignorant-former-labor-mp-condemns-minns-government-for-threatening-blue-mountains-protesters-over-historic-site"
+    }
+  ],
+  "2025-10-25": [
+    {
+      "file": "newsimage/2025-10-25/Argentina_goes_to_polls_amid_economic_crisis_and_Trump_‘interference’.png",
+      "title": "Argentina goes to polls amid economic crisis and Trump ‘interference’",
+      "link": "https://www.theguardian.com/world/2025/oct/25/argentina-president-javier-milei-polls-economic-crisis-trump"
+    },
+    {
+      "file": "newsimage/2025-10-25/At_least_four_killed_in_Russian_strikes_overnight_on_Ukraine.png",
+      "title": "At least four killed in Russian strikes overnight on Ukraine",
+      "link": "https://www.theguardian.com/world/2025/oct/25/russian-overnight-strikes-ukraine-zelenskyy-sanctions-oil"
+    },
+    {
+      "file": "newsimage/2025-10-25/At_least_four_people_shot_near_Howard_University,_Washington_DC_police_say.png",
+      "title": "At least four people shot near Howard University, Washington DC police say",
+      "link": "https://www.theguardian.com/us-news/2025/oct/24/howard-university-shooting-police"
+    },
+    {
+      "file": "newsimage/2025-10-25/Australia_Women’s_Cricket_World_Cup_players_‘touched_inappropriately’_in_India.png",
+      "title": "Australia Women’s Cricket World Cup players ‘touched inappropriately’ in India",
+      "link": "https://www.theguardian.com/sport/2025/oct/25/australia-womens-cricket-world-cup-players-allegedly-touched-inappropriately-in-india"
+    },
+    {
+      "file": "newsimage/2025-10-25/Dead_soldiers’_teeth_reveal_diseases_that_doomed_Napoleon’s_army.png",
+      "title": "Dead soldiers’ teeth reveal diseases that doomed Napoleon’s army",
+      "link": "https://www.washingtonpost.com/science/2025/10/24/napoleons-army-diseases-ancient-dna-teeth/"
+    },
+    {
+      "file": "newsimage/2025-10-25/Enforce_law_when_suicide_linked_to_domestic_violence,_say_UK_campaigners.png",
+      "title": "Enforce law when suicide linked to domestic violence, say UK campaigners",
+      "link": "https://www.theguardian.com/society/2025/oct/25/enforce-law-when-suicide-linked-to-domestic-violence-say-uk-campaigners"
+    },
+    {
+      "file": "newsimage/2025-10-25/Ex-60_Minutes_producer_Bill_Owens_says_bosses_discouraged_him_from_covering_Gaza_and_Trump.png",
+      "title": "Ex 60 Minutes producer Bill Owens says bosses discouraged him from covering Gaza and Trump",
+      "link": "https://www.theguardian.com/us-news/2025/oct/24/60-minutes-bill-owens"
+    },
+    {
+      "file": "newsimage/2025-10-25/Factionalism,_farce_and_chaos_dogs_Reform_UK_in_the_garden_of_England.png",
+      "title": "Factionalism, farce and chaos dogs Reform UK in the garden of England",
+      "link": "https://www.theguardian.com/politics/2025/oct/25/reform-uk-kent-meeting-chaos-factionalism"
+    },
+    {
+      "file": "newsimage/2025-10-25/Gold_and_silver_coins_stolen_from_French_museum_hours_after_Louvre_heist.png",
+      "title": "Gold and silver coins stolen from French museum hours after Louvre heist",
+      "link": "https://www.washingtonpost.com/world/2025/10/23/france-musem-heist-coins-diderot-louvre/"
+    },
+    {
+      "file": "newsimage/2025-10-25/GOP_hawks_feel_the_whiplash_of_Trump’s_China_policy.png",
+      "title": "GOP hawks feel the whiplash of Trump’s China policy",
+      "link": "https://www.washingtonpost.com/national-security/2025/10/24/xi-jinping-trump-china-summit/"
+    },
+    {
+      "file": "newsimage/2025-10-25/Homemade_chilli_paste_products_linked_to_cluster_of_rat_poisoning_cases_in_south-east_Queensland.png",
+      "title": "Homemade chilli paste products linked to cluster of rat poisoning cases in south east Queensland",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/25/homemade-chilli-paste-products-linked-to-cluster-of-rat-poisoning-cases-in-south-east-queensland"
+    },
+    {
+      "file": "newsimage/2025-10-25/India’s_$3.9_billion_plan_to_help_Modi’s_mogul_ally_after_U.S._charges.png",
+      "title": "India’s $3.9 billion plan to help Modi’s mogul ally after U.S. charges",
+      "link": "https://www.washingtonpost.com/world/2025/10/24/india-adani-group-modi-lic/"
+    },
+    {
+      "file": "newsimage/2025-10-25/Japanese_tourist_dies_in_fall_from_Pantheon_in_Rome.png",
+      "title": "Japanese tourist dies in fall from Pantheon in Rome",
+      "link": "https://www.theguardian.com/world/2025/oct/25/japanese-tourist-dies-in-fall-from-pantheon-in-rome"
+    },
+    {
+      "file": "newsimage/2025-10-25/Labour’s_new_deputy_leader_Lucy_Powell_says_she_wants_Starmer_to_succeed_but_party_must_change_–_UK_politics_live.png",
+      "title": "Labour’s new deputy leader Lucy Powell says she wants Starmer to succeed but party must change – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2025/oct/25/new-labour-deputy-leader-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates"
+    },
+    {
+      "file": "newsimage/2025-10-25/Leftwinger_Catherine_Connolly_takes_clear_lead_in_Ireland’s_presidential_race.png",
+      "title": "Leftwinger Catherine Connolly takes clear lead in Ireland’s presidential race",
+      "link": "https://www.theguardian.com/world/2025/oct/25/catherine-connolly-ireland-presidential-election-leftwing"
+    },
+    {
+      "file": "newsimage/2025-10-25/Liberals_accuse_Labor_of_secrecy_for_withholding_PM’s_letters_to_ministers_–_despite_Coalition_doing_the_same.png",
+      "title": "Liberals accuse Labor of secrecy for withholding PM’s letters to ministers – despite Coalition doing the same",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/25/liberals-accuse-labor-secrecy-withholding-pm-letters-to-ministers"
+    },
+    {
+      "file": "newsimage/2025-10-25/Lithuania_shuts_airports_and_Belarus_border_after_weather_balloon_incursion.png",
+      "title": "Lithuania shuts airports and Belarus border after weather balloon incursion",
+      "link": "https://www.theguardian.com/world/2025/oct/24/weather-balloon-incursion-forces-lithuanias-biggest-airports-to-close"
+    },
+    {
+      "file": "newsimage/2025-10-25/Once_Australia’s_second_priciest_city,_Melbourne_has_become_more_affordable._What_happened_–_and_will_it_last.png",
+      "title": "Once Australia’s second priciest city, Melbourne has become more affordable. What happened – and will it last",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/25/once-australias-second-priciest-city-melbourne-has-become-more-affordable-what-happened-and-will-it-last"
+    },
+    {
+      "file": "newsimage/2025-10-25/Palestinian_factions_say_they_agree_to_let_independent_technocrat_committee_run_Gaza.png",
+      "title": "Palestinian factions say they agree to let independent technocrat committee run Gaza",
+      "link": "https://www.theguardian.com/world/2025/oct/24/palestinian-factions-say-they-agree-to-let-independent-technocrat-committee-run-gaza"
+    },
+    {
+      "file": "newsimage/2025-10-25/Pentagon_deploys_top_aircraft_carrier_as_Trump_militarisation_of_Caribbean_ratchets_up.png",
+      "title": "Pentagon deploys top aircraft carrier as Trump militarisation of Caribbean ratchets up",
+      "link": "https://www.theguardian.com/us-news/2025/oct/24/trump-caribbean-uss-gerald-ford-carrier"
+    },
+    {
+      "file": "newsimage/2025-10-25/Pentagon_orders_aircraft_carrier_to_Latin_America_as_Trump_signals_escalation.png",
+      "title": "Pentagon orders aircraft carrier to Latin America as Trump signals escalation",
+      "link": "https://www.washingtonpost.com/national-security/2025/10/24/aircraft-carrier-trump-caribbean-latin-america/"
+    },
+    {
+      "file": "newsimage/2025-10-25/Republicans_who_once_opposed_Trump’s_military_impulses_now_lower_their_guard.png",
+      "title": "Republicans who once opposed Trump’s military impulses now lower their guard",
+      "link": "https://www.washingtonpost.com/national-security/2025/10/24/trump-military-strikes-republicans-war-powers/"
+    },
+    {
+      "file": "newsimage/2025-10-25/Revealed-_some_Australians_have_overpaid_their_Centrelink_debt_by_more_than_$20,000.png",
+      "title": "Revealed  some Australians have overpaid their Centrelink debt by more than $20,000",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/24/revealed-some-australians-have-overpaid-their-centrelink-debt-by-more-than-20000"
+    },
+    {
+      "file": "newsimage/2025-10-25/RFK_Jr_to_urge_Americans_to_eat_more_saturated_fats,_alarming_health_experts.png",
+      "title": "RFK Jr to urge Americans to eat more saturated fats, alarming health experts",
+      "link": "https://www.theguardian.com/us-news/2025/oct/25/rfk-jr-saturated-fats"
+    },
+    {
+      "file": "newsimage/2025-10-25/Rubio_stresses_there_is_‘no_plan_B’_amid_questions_over_Trump’s_Gaza_deal.png",
+      "title": "Rubio stresses there is ‘no plan B’ amid questions over Trump’s Gaza deal",
+      "link": "https://www.washingtonpost.com/world/2025/10/24/israel-hamas-gaza-war-ceasefire-rubio/"
+    },
+    {
+      "file": "newsimage/2025-10-25/Scottish_fire_engine_destined_for_West_Bank_may_return_after_15-month_Israeli_seizure.png",
+      "title": "Scottish fire engine destined for West Bank may return after 15 month Israeli seizure",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/24/scottish-fire-engine-destined-for-west-bank-may-return-after-15-month-israeli-seizure"
+    },
+    {
+      "file": "newsimage/2025-10-25/Six_metres_below_ground-_inside_the_secret_hospital_treating_Ukrainian_soldiers_injured_by_Russian_drones.png",
+      "title": "Six metres below ground  inside the secret hospital treating Ukrainian soldiers injured by Russian drones",
+      "link": "https://www.theguardian.com/world/2025/oct/25/underground-hospital-ukrainian-soldiers-injured-by-russian-drones"
+    },
+    {
+      "file": "newsimage/2025-10-25/Switzerland_is_spending_millions_revamping_its_vast_network_of_bunkers.png",
+      "title": "Switzerland is spending millions revamping its vast network of bunkers",
+      "link": "https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/"
+    },
+    {
+      "file": "newsimage/2025-10-25/Thailand’s_Queen_Mother_Sirikit_dies_at_93_after_more_than_a_decade_out_of_the_public_eye.png",
+      "title": "Thailand’s Queen Mother Sirikit dies at 93 after more than a decade out of the public eye",
+      "link": "https://www.theguardian.com/world/2025/oct/25/thailands-queen-mother-sirikit-dies-at-93-after-more-than-a-decade-out-of-the-public-eye"
+    },
+    {
+      "file": "newsimage/2025-10-25/They_wanted_to_make_hummus._The_Gaza_war_made_them_a_political_target..png",
+      "title": "They wanted to make hummus. The Gaza war made them a political target.",
+      "link": "https://www.washingtonpost.com/world/2025/10/25/germany-hummus-israeli-palestinian-partners/"
+    },
+    {
+      "file": "newsimage/2025-10-25/The_racism_and_Islamophobia_behind_many_of_the_attacks_on_Zohran_Mamdani.png",
+      "title": "The racism and Islamophobia behind many of the attacks on Zohran Mamdani",
+      "link": "https://www.theguardian.com/us-news/2025/oct/25/zohran-mamdani-attacks-racism-islamophobia-"
+    },
+    {
+      "file": "newsimage/2025-10-25/Tips_for_Trump_on_Russia_(from_an_ex-oligarch_once_jailed_by_Putin).png",
+      "title": "Tips for Trump on Russia (from an ex oligarch once jailed by Putin)",
+      "link": "https://www.washingtonpost.com/world/2025/10/24/mikkhail-khodorkovsky-trump-putin-russia/"
+    },
+    {
+      "file": "newsimage/2025-10-25/Trump_adviser_Stephen_Miller_insists_East_Wing_of_White_House_‘is_not_part_of_the_White_House’_–_as_it_happened.png",
+      "title": "Trump adviser Stephen Miller insists East Wing of White House ‘is not part of the White House’ – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/oct/24/donald-trump-trade-negotiations-canada-mark-carney-terminated-tariff-letitia-james-new-york-us-politics-live-news"
+    },
+    {
+      "file": "newsimage/2025-10-25/Trump_cancels_trade_negotiations_with_Canada_over_anti-tariff_ad.png",
+      "title": "Trump cancels trade negotiations with Canada over anti tariff ad",
+      "link": "https://www.washingtonpost.com/world/2025/10/24/trump-cancel-canada-trade-negotiations-reagan/"
+    },
+    {
+      "file": "newsimage/2025-10-25/Trump_says_he_is_open_to_meeting_Kim_Jong-un_as_he_embarks_on_whirlwind_Asia_tour.png",
+      "title": "Trump says he is open to meeting Kim Jong un as he embarks on whirlwind Asia tour",
+      "link": "https://www.theguardian.com/us-news/2025/oct/25/trump-open-to-meeting-kim-jong-un-asia-tour-japan-korea-xi-jinping"
+    },
+    {
+      "file": "newsimage/2025-10-25/Turkey_likely_to_be_excluded_from_Gaza_stabilisation_force_after_Israeli_objection.png",
+      "title": "Turkey likely to be excluded from Gaza stabilisation force after Israeli objection",
+      "link": "https://www.theguardian.com/world/2025/oct/25/turkey-gaza-stabilisation-force-israeli-objection"
+    },
+    {
+      "file": "newsimage/2025-10-25/U.S._imposes_sanctions_on_Colombian_President_Gustavo_Petro_and_family.png",
+      "title": "U.S. imposes sanctions on Colombian President Gustavo Petro and family",
+      "link": "https://www.washingtonpost.com/world/2025/10/24/petro-colombia-sanctions-trump-us/"
+    },
+    {
+      "file": "newsimage/2025-10-25/US_and_Canada_spar_over_ad_of_Reagan_denouncing_tariffs_that_led_to_derailed_trade_talks.png",
+      "title": "US and Canada spar over ad of Reagan denouncing tariffs that led to derailed trade talks",
+      "link": "https://www.theguardian.com/us-news/2025/oct/24/trump-canada-trade-negotations-ontario-tariffs"
+    },
+    {
+      "file": "newsimage/2025-10-25/US_places_sanctions_on_Colombian_president_over_alleged_failure_to_stop_cartels.png",
+      "title": "US places sanctions on Colombian president over alleged failure to stop cartels",
+      "link": "https://www.theguardian.com/us-news/2025/oct/24/us-sanctions-colombian-president-gustavo-petro"
+    },
+    {
+      "file": "newsimage/2025-10-25/US_secretary_of_state_Marco_Rubio_says_‘Hamas_cannot_be_involved_in_governing_Gaza’_–_as_it_happened.png",
+      "title": "US secretary of state Marco Rubio says ‘Hamas cannot be involved in governing Gaza’ – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/oct/24/aid-gaza-israel-palestine-benjamin-netanyahu-hamas-ceasefire-west-bank-middle-east-live-news"
+    },
+    {
+      "file": "newsimage/2025-10-25/What_to_know_about_Trump’s_role_in_the_Thailand-Cambodia_peace_deal.png",
+      "title": "What to know about Trump’s role in the Thailand Cambodia peace deal",
+      "link": "https://www.washingtonpost.com/world/2025/10/25/trump-thailand-cambodia-peace-deal/"
+    },
+    {
+      "file": "newsimage/2025-10-25/‘History_is_repeating_itself’-_fight_against_far-right_in_London’s_East_End_goes_on.png",
+      "title": "‘History is repeating itself’  fight against far right in London’s East End goes on",
+      "link": "https://www.theguardian.com/politics/2025/oct/25/history-repeating-fight-against-far-right-in-london-east-end"
+    }
+  ],
   "2025-10-24": [
     {
       "file": "newsimage/2025-10-24/Author_of_EPBC_Act_review_‘bitterly_disappointed’_with_Coalition’s_stance_–_as_it_happened.png",
